@@ -15,6 +15,7 @@
 <div align="center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #1f2429;"> ✨youn's Project✨ </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
+         <h3>🍩 Prokin' Donuts – 건강하고 맛있는 도넛 브랜드</h3>
         <img src="https://github.com/user-attachments/assets/efbcece9-b7f3-45a9-a973-b368777e77d5" alt="Image" />
     </div> 
 </div>
