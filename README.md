@@ -1,6 +1,7 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=wave&color=fff0fc&height=180&text=Hey,%20Code!%20Let%20Me%20Take%20a%20Bite&animation=blinking&fontColor=a2a0a0&fontSize=40" />
 </div>
+
 <div align="center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨나의 코딩 여정✨ </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
@@ -13,7 +14,7 @@
     </div> 
 </div>
 
-    <div align="center">
+<div align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white&bg_color=BFD8B8">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white&bg_color=D1F1D1">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white&bg_color=D0F0C0">
@@ -29,6 +30,7 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white&bg_color=D8D8FF">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white&bg_color=F1B7C6">
 </div>
+
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align="center"> 
@@ -44,6 +46,7 @@
     </div>  
     <br> 
 </div>
+
 <div align="center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
     <div align="center"> 
