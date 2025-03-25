@@ -15,14 +15,20 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #1f2429;"> ✨youn's Project✨ </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
-         <h3>👩‍💼Employee System</h3>
+        <h3>👩‍💼Employee System</h3>
         <a href="https://github.com/kya9505/HR-finder" target="_blank">
-            <img src= "https://github.com/user-attachments/assets/f5dfbd29-7592-400f-9361-55bf29cb83ab" />
-  </a>
-            <h3>🍩 Prokin' Donuts WMS</h3>
-        <img src="https://github.com/user-attachments/assets/efbcece9-b7f3-45a9-a973-b368777e77d5" alt="Image" />
+            <img src="https://github.com/user-attachments/assets/f5dfbd29-7592-400f-9361-55bf29cb83ab" alt="Employee System Image" />
+        </a>
+        
+        <h3>Click the image to go to the respective page</h3>
+        
+        <h3>🍩 Prokin' Donuts WMS</h3>
+        <a href="https://github.com/prokin-donuts" target="_blank">
+            <img src="https://github.com/user-attachments/assets/efbcece9-b7f3-45a9-a973-b368777e77d5" alt="Prokin' Donuts WMS" />
+        </a>
     </div> 
 </div>
+
 
 
 
