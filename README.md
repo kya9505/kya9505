@@ -13,11 +13,7 @@
         함께 코딩하며 성장해봐요! 🚀
     </div> 
   
-    <style>
-    .image-link {
-        cursor: pointer; /* 손 모양 커서 */
-    }
-</style>
+
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #1f2429;"> ✨youn's Project✨ </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
