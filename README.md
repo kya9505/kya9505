@@ -13,6 +13,12 @@
         함께 코딩하며 성장해봐요! 🚀
     </div> 
 </div>
+<div align="center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #1f2429;"> ✨youn's Project✨ </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
+       ![Image](https://github.com/user-attachments/assets/a286131d-a76c-4333-a02a-b1ec19d1aec2)
+    </div> 
+</div>
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align="center"> 
