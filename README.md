@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=wave&color=fff0fc&height=180&text=Hey,%20Code!%20Let%20Me%20Take%20a%20Bite&animation=blinking&fontColor=a2a0a0&fontSize=40" />
 </div>
 <div align="center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨나의 코딩 여정✨ </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨youn's 코딩 여정✨ </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
         안녕하세요!<br>
         코딩 세계에 첫 발을 내딛은 개발 꿈나무입니다.😆<br>
