@@ -17,7 +17,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
          <h3>👩‍💼Employee System</h3>
         <a href="https://github.com/kya9505/HR-finder" target="_blank">
-         <img src= "ttps://github.com/user-attachments/assets/75ddd961-34e5-4908-b399-c6b5256f71dd"alt="Image" />
+            <img src= "https://github.com/user-attachments/assets/f5dfbd29-7592-400f-9361-55bf29cb83ab" />
   </a>
             <h3>🍩 Prokin' Donuts WMS</h3>
         <img src="https://github.com/user-attachments/assets/efbcece9-b7f3-45a9-a973-b368777e77d5" alt="Image" />
