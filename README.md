@@ -12,7 +12,7 @@
         배움과 도전을 즐기며, 한 입씩 코드를 맛보는 중입니다! 🍩💻<br>
         함께 코딩하며 성장해봐요! 🚀
     </div> 
-<div align="center"> 
+<div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #1f2429;"> ✨youn's Project✨ </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
          <h3>🍩 Prokin' Donuts WMS</h3>
