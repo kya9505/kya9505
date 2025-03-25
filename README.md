@@ -12,13 +12,14 @@
         배움과 도전을 즐기며, 한 입씩 코드를 맛보는 중입니다! 🍩💻<br>
         함께 코딩하며 성장해봐요! 🚀
     </div> 
-</div><div align="center"> 
-    <h2 style="color: #1f2429;"> ✨youn's Project✨ </h2>  
+<div align="center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #1f2429;"> ✨youn's Project✨ </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
         <h2 style="color: #1f2429;"> Prokin's Donuts Project </h2>  
         <img src="https://github.com/user-attachments/assets/efbcece9-b7f3-45a9-a973-b368777e77d5" alt="Image" />
     </div> 
 </div>
+
 </div>
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
