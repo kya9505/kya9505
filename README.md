@@ -15,9 +15,10 @@
 </div>
 
 ---
+
 <div align="center">
     <h2>🚀 What I'm Learning Now</h2>
-    <div style="font-size: 16px; color: #282d33; line-height: 1.6;">
+    <div style="font-size: 16px; color: #282d33; line-height: 1.6; font-weight:bold;">
         Java 기반 백엔드 개발 (Spring Boot)<br>
         효율적인 데이터 관리 및 성능 최적화<br>
         디자인 패턴과 객체 지향 설계<br>
@@ -46,7 +47,7 @@
     <div style="font-size: 16px; color: #282d33; line-height: 1.6;">
         📌 <a href="https://github.com/kya9505/Borad_System" style="text-decoration: none; color: #282d33;"><strong>자동화된 게시판 시스템(Board System)</strong></a> (Java)<br>
         🗂️ <a href="https://github.com/kya9505/java_advanced" style="text-decoration: none; color: #282d33;"><strong>자바 매일 도전 프로젝트</strong></a> (Java)<br>
-        💾 <a href="https://github.com/kya9505/SQL_MySQL" style="text-decoration: none; color: #282d33;"><strong>DATABASE PRACTICE</strong></a> (Mysql)
+        💾 <a href="https://github.com/kya9505/SQL_MySQL" style="text-decoration: none; color: #282d33;"><strong>DATABASE Step Up</strong></a> (Mysql)
     </div>
 </div>
 ---
