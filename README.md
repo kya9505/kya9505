@@ -2,19 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=wave&color=fff0fc&height=180&text=Hey,%20Code!%20Let%20Me%20Take%20a%20Bite&animation=blinking&fontColor=555555&fontSize=40" width="700"/>
 </div>
 
-<div align="center"> 
-    <h2 style="border-bottom: 2px solid #D1C6E4; color: #1f2429; padding-bottom: 10px;"> ✨youn's 코딩 여정✨ </h2>  
-    <div style="font-weight: 500; font-size: 16px; text-align: center; color: #282d33; line-height: 1.6;"> 
-        안녕하세요!<br>
-        코딩 세계에 첫 발을 내딛은 개발 꿈나무입니다.😆<br>
-        치기공사로 일하다가 우연히 프로그래밍에 흥미를 느껴 개발의 길로 뛰어들었고, C언어로 시작해 Java에 빠졌습니다.<br>
-        지금은 데이터베이스와 백엔드 개발까지 탐험 중이며, 부트캠프에서 창고 관리 시스템을 개발하며 실전 경험을 쌓고 있어요.<br>
-        배움과 도전을 즐기며, 한 입씩 코드를 맛보는 중입니다!🍎 <br>
-        함께 코딩하며 성장해봐요! 🐥🍼
-    </div> 
-</div>
-
-
 <div align="center">
     <h2>What I'm Learning Now</h2>
     <div style="font-size: 16px; color: #282d33; line-height: 1.6; font-weight:bold;">
