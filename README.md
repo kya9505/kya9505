@@ -20,7 +20,7 @@
 <div align="center"> 
     <h2 style="border-bottom: 2px solid #D1C6E4; color: #1f2429; padding-bottom: 10px;"> ✨ Team Projects </h2>  
     <div style="font-weight: 500; font-size: 16px; text-align: center; color: #282d33; line-height: 1.6;"> 
-   <h3>Click to image</h3>
+   <h3>Click on the image</h3>
         🍩 Prokin' Donuts WMS&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👩‍💼 Employee System 
     </div>
     <div>
@@ -39,7 +39,7 @@
 <div align="center">
     <h2>🎯 Personal Projects</h2>
     <div style="font-size: 16px; color: #282d33; line-height: 1.6;">
-           <h3> Click to List</h3>
+           <h3>Click on the project</h3>
         📌 <a href="https://github.com/kya9505/Borad_System" style="text-decoration: none; color: #282d33;"><strong>자동화된 게시판 시스템(Board System)</strong></a> (Java)<br>
         🗂️ <a href="https://github.com/kya9505/java_advanced" style="text-decoration: none; color: #282d33;"><strong>자바 매일 도전 프로젝트</strong></a> (Java)<br>
         💾 <a href="https://github.com/kya9505/SQL_MySQL" style="text-decoration: none; color: #282d33;"><strong>DATABASE Step Up</strong></a> (Mysql)
