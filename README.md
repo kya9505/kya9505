@@ -60,6 +60,7 @@
             <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
         </a>
         <a href="#"> 
+            <a href="https://blog.naver.com/yadaily"> 
             <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
         </a>
         <a href="#"> 
