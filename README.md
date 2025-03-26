@@ -17,17 +17,17 @@
 <div align="center">
     <h2 style="border-bottom: 2px solid #D1C6E4; color: #1f2429; padding-bottom: 10px;"> ✨youn's Team Project ✨</h2>
     <div style="font-weight: 500; font-size: 16px; color: #282d33; text-align: center;">
-        <h3>Click the image to go to the respective page</h3>
+        <h3>Click the image</h3>
         <div style="margin-bottom: 20px;">
             <h3>👩‍💼 Employee System</h3>
             <a href="https://github.com/kya9505/HR-finder" target="_blank">
-                <img src="https://github.com/user-attachments/assets/f5dfbd29-7592-400f-9361-55bf29cb83ab" alt="Employee System Image" width="350" style="border-radius: 10px; transition: transform 0.3s ease;"/>
+                <img src="https://github.com/user-attachments/assets/f5dfbd29-7592-400f-9361-55bf29cb83ab" alt="Employee System Image" width="700" style="border-radius: 10px; transition: transform 0.3s ease;"/>
             </a>
         </div>
         <div>
             <h3>🍩 Prokin' Donuts WMS</h3>
             <a href="https://github.com/kya9505/Prokin-Donuts" target="_blank">
-                <img src="https://github.com/user-attachments/assets/efbcece9-b7f3-45a9-a973-b368777e77d5" alt="Prokin' Donuts WMS" width="350" style="border-radius: 10px; transition: transform 0.3s ease;"/>
+                <img src="https://github.com/user-attachments/assets/efbcece9-b7f3-45a9-a973-b368777e77d5" alt="Prokin' Donuts WMS" width="700" style="border-radius: 10px; transition: transform 0.3s ease;"/>
             </a>
         </div>
     </div>  
