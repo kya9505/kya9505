@@ -3,8 +3,8 @@
 </div>
 
 <div align="center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #1f2429;"> ✨youn's 코딩 여정✨ </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
+    <h2 style="border-bottom: 2px solid #D1C6E4; color: #1f2429; padding-bottom: 10px;"> ✨youn's 코딩 여정✨ </h2>  
+    <div style="font-weight: 500; font-size: 16px; text-align: center; color: #282d33; line-height: 1.6;"> 
         안녕하세요!<br>
         코딩 세계에 첫 발을 내딛은 개발 꿈나무입니다.😆<br>
         치기공사로 일하다가 우연히 프로그래밍에 흥미를 느껴 개발의 길로 뛰어들었고, C언어로 시작해 Java에 빠졌습니다.<br>
@@ -12,62 +12,65 @@
         배움과 도전을 즐기며, 한 입씩 코드를 맛보는 중입니다! 🍩💻<br>
         함께 코딩하며 성장해봐요! 🚀
     </div> 
-  
-
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #1f2429;"> ✨youn's Project✨ </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
-        <h3>Click the image to go to the respective page</h3>
-        <h3>👩‍💼Employee System</h3>
-        <a href="https://github.com/kya9505/HR-finder" target="_blank">
-            <img src="https://github.com/user-attachments/assets/f5dfbd29-7592-400f-9361-55bf29cb83ab" alt="Employee System Image" />
-        </a>
-        <h3>🍩 Prokin' Donuts WMS</h3>
-        <a href="https://github.com/kya9505/Prokin-Donuts"_blank">
-            <img src="https://github.com/user-attachments/assets/efbcece9-b7f3-45a9-a973-b368777e77d5" alt="Prokin' Donuts WMS" />
-        </a>
-    </div> 
 </div>
 
-
-
-
-</div>
 <div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align="center"> 
+    <h2 style="border-bottom: 2px solid #D1C6E4; color: #1f2429; padding-bottom: 10px;"> ✨youn's Project ✨</h2>
+    <div style="font-weight: 500; font-size: 16px; color: #282d33; text-align: center;">
+        <h3>Click the image to go to the respective page</h3>
+        <div style="margin-bottom: 20px;">
+            <h3>👩‍💼 Employee System</h3>
+            <a href="https://github.com/kya9505/HR-finder" target="_blank">
+                <img src="https://github.com/user-attachments/assets/f5dfbd29-7592-400f-9361-55bf29cb83ab" alt="Employee System Image" width="350" style="border-radius: 10px; transition: transform 0.3s ease;"/>
+            </a>
+        </div>
+        <div>
+            <h3>🍩 Prokin' Donuts WMS</h3>
+            <a href="https://github.com/kya9505/Prokin-Donuts" target="_blank">
+                <img src="https://github.com/user-attachments/assets/efbcece9-b7f3-45a9-a973-b368777e77d5" alt="Prokin' Donuts WMS" width="350" style="border-radius: 10px; transition: transform 0.3s ease;"/>
+            </a>
+        </div>
+    </div>  
+</div>
+
+<div align="center">
+    <h2 style="border-bottom: 2px solid #D1C6E4; color: #282d33; padding-bottom: 10px;"> 🛠️ Tech Stacks </h2>
+    <div style="margin: 20px auto; text-align: center;">
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-        <br><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+        <br>
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub Pages-222222?style=for-the-badge&logo=GitHub Pages&logoColor=white">
         <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-        <br><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+        <br>
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
         <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
     </div>
 </div>
+
 <div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align="center"> 
+    <h2 style="border-bottom: 2px solid #D1C6E4; color: #282d33; padding-bottom: 10px;"> 🧑‍💻 Contact me </h2>
+    <div>
         <a href="https://velog.io/@dbsdk4211/posts"> 
-            <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@dbsdk4211/posts"> 
+            <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
         </a>
         <a href="#"> 
-            <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link="#"> 
+            <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
         </a>
         <a href="#"> 
-            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="#"> 
+            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
         </a>
     </div>  
-    <br> 
 </div>
-<div align="center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-    <div align="center"> 
+
+<div align="center">
+    <h2 style="border-bottom: 2px solid #D1C6E4; color: #282d33; padding-bottom: 10px;"> 🏅 Stats </h2>
+    <div>
         <img src="https://github-readme-stats.vercel.app/api?username=kya9505&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"/>
-    </div> 
+    </div>
 </div>
