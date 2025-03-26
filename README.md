@@ -30,7 +30,6 @@
         <a href="https://github.com/kya9505/HR-finder">
             <img src="https://github.com/user-attachments/assets/f5dfbd29-7592-400f-9361-55bf29cb83ab" width="400"> 
         </a>
-    
     </div>
 </div>
 
