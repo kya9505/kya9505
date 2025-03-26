@@ -65,12 +65,7 @@
           <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
           </div>
     </div>
-    <hr />
-    <h2>📅 GitHub Stats</h2>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kya9505&theme=default" /><br>
-    <img src="https://komarev.com/ghpvc/?username=kya9505&color=blue" />
-    <hr />
-<h2>🧑‍💻 Contact Me</h2>
+    <h2>🧑‍💻 Contact Me</h2>
 <a href="https://velog.io/@dbsdk4211/posts">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" />
 </a>
@@ -84,5 +79,11 @@
     <img src="https://github.com/user-attachments/assets/6003379b-e352-4bfe-87d8-119ea826788a" width="300" />
 </a><br>
    Click to send me an email!
+    <hr />
+    <h2>📅 GitHub Stats</h2>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kya9505&theme=default" /><br>
+    <img src="https://komarev.com/ghpvc/?username=kya9505&color=blue" />
+    <hr />
+
 
 </div>
