@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <h2>What I'm Learning Now</h2>
+    <h2>🚀What I'm Learning Now🐥</h2>
     <div style="font-size: 16px; color: #282d33; line-height: 1.6; font-weight:bold;">
         Java 기반 백엔드 개발 (Spring Boot)<br>
         효율적인 데이터 관리 및 성능 최적화<br>
