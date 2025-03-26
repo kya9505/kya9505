@@ -14,7 +14,6 @@
     </div> 
 </div>
 
----
 
 <div align="center">
     <h2>🚀 What I'm Learning Now</h2>
