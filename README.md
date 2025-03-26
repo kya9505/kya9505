@@ -34,10 +34,15 @@
         👩‍💼 Employee System &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🍩 Prokin' Donuts WMS
     </div>
     <div>
-        <img src="https://github.com/kya9505/HR-finder" width="400"> 
-        <img src="https://github.com/kya9505/Prokin-Donuts" width="400">
+        <a href="https://github.com/kya9505/HR-finder">
+            <img src="https://github.com/user-attachments/assets/f5dfbd29-7592-400f-9361-55bf29cb83ab" width="400"> 
+        </a>
+        <a href="https://github.com/kya9505/Prokin-Donuts">
+            <img src="https://github.com/user-attachments/assets/efbcece9-b7f3-45a9-a973-b368777e77d5" width="400">
+        </a>
     </div>
 </div>
+
 
 ---
 
