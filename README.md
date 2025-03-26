@@ -1,6 +1,8 @@
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=fff0fc&height=180&text=Hey,%20Code!%20Let%20Me%20Take%20a%20Bite&animation=blinking&fontColor=555555&fontSize=40" width="700"/>
+<div style="padding: 0; margin: 0; width: 100%; text-align: center;">
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=fff0fc&height=180&text=Hey,%20Code!%20Let%20Me%20Take%20a%20Bite&animation=blinking&fontColor=555555&fontSize=40" style="width: 100%; height: auto; display: block; margin: 0;"/>
 </div>
+
+
 
 <div align="center">
     <h2>🚀What I'm Learning Now🐥</h2>
