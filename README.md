@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-    <h2 style="border-bottom: 2px solid #D1C6E4; color: #1f2429; padding-bottom: 10px;"> ✨youn's Project ✨</h2>
+    <h2 style="border-bottom: 2px solid #D1C6E4; color: #1f2429; padding-bottom: 10px;"> ✨youn's Team Project ✨</h2>
     <div style="font-weight: 500; font-size: 16px; color: #282d33; text-align: center;">
         <h3>Click the image to go to the respective page</h3>
         <div style="margin-bottom: 20px;">
