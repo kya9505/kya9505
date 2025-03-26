@@ -27,22 +27,26 @@
 </div>
 
 ---
-## ✨ Team Projects
-### 👩‍💼 Employee System
-[![Employee System](https://github.com/user-attachments/assets/f5dfbd29-7592-400f-9361-55bf29cb83ab)](https://github.com/kya9505/HR-finder)
 
-### 🍩 Prokin' Donuts WMS
-[![Prokin' Donuts WMS](https://github.com/user-attachments/assets/efbcece9-b7f3-45a9-a973-b368777e77d5)](https://github.com/kya9505/Prokin-Donuts)
-
+<div align="center"> 
+    <h2 style="border-bottom: 2px solid #D1C6E4; color: #1f2429; padding-bottom: 10px;"> ✨ Team Projects </h2>  
+    <div style="font-weight: 500; font-size: 16px; text-align: center; color: #282d33; line-height: 1.6;"> 
+        👩‍💼 Employee System &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🍩 Prokin' Donuts WMS
+    </div>
+    <div>
+        <img src="https://github.com/user-attachments/assets/f5dfbd29-7592-400f-9361-55bf29cb83ab" width="400"> 
+        <img src="https://github.com/user-attachments/assets/efbcece9-b7f3-45a9-a973-b368777e77d5" width="400">
+    </div>
+</div>
 
 ---
 
 <div align="center">
     <h2>🎯 Personal Projects</h2>
     <div style="font-size: 16px; color: #282d33; line-height: 1.6;">
-        <a href="https://github.com/kya9505/Borad_System" style="text-decoration: none; color: #282d33;"><strong>📌 자동화된 게시판 시스템(Board System)</strong></a> (Java)<br>
-        <a href="https://github.com/kya9505/java_advanced" style="text-decoration: none; color: #282d33;"><strong>🗂️ 자바 매일 도전 프로젝트</strong></a> (Java)<br>
-        <a href="https://github.com/kya9505/SQL_MySQL" style="text-decoration: none; color: #282d33;"><strong>💾 DATABASE PRACTICE</strong></a> (Java)
+        📌 <a href="https://github.com/kya9505/Borad_System" style="text-decoration: none; color: #282d33;"><strong>자동화된 게시판 시스템(Board System)</strong></a> (Java)<br>
+        🗂️ <a href="https://github.com/kya9505/java_advanced" style="text-decoration: none; color: #282d33;"><strong>자바 매일 도전 프로젝트</strong></a> (Java)<br>
+        💾 <a href="https://github.com/kya9505/SQL_MySQL" style="text-decoration: none; color: #282d33;"><strong>DATABASE PRACTICE</strong></a> (Mysql)
     </div>
 </div>
 ---
@@ -54,15 +58,11 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
-    
     <hr />
-    
     <h2>📅 GitHub Stats</h2>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kya9505&theme=default" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kya9505&theme=default" /><br>
     <img src="https://komarev.com/ghpvc/?username=kya9505&color=blue" />
-    
     <hr />
-    
     <h2>🧑‍💻 Contact Me</h2>
     <a href="https://velog.io/@dbsdk4211/posts">
         <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" />
