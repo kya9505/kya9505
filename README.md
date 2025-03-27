@@ -71,8 +71,8 @@
            <h3>Click on the project</h3>
         📌 <a href="https://github.com/kya9505/Borad_System" style="text-decoration: none; color: #282d33;"><strong>자동화된 게시판 시스템(Board System)</strong></a> (Java)<br>
         🗂️ <a href="https://github.com/kya9505/java_advanced" style="text-decoration: none; color: #282d33;"><strong>자바 매일 도전 프로젝트</strong></a> (Java)<br>
-        💾 <a href="https://github.com/kya9505/SQL_MySQL" style="text-decoration: none; color: #282d33;"><strong>DATABASE Step Up</strong></a> (Mysql)
-        💾 <a href="https://github.com/kya9505/HTML" style="text-decoration: none; color: #282d33;"><strong></strong>HTML NEXT LEVEL!</a> (Mysql)
+        💾 <a href="https://github.com/kya9505/SQL_MySQL" style="text-decoration: none; color: #282d33;"><strong>DATABASE Step Up</strong></a> (Mysql))<br>
+        💾 <a href="https://github.com/kya9505/HTML" style="text-decoration: none; color: #282d33;"><strong>HTML NEXT LEVEL!</strong></a> (Mysql)
     </div>
 </div>
 
