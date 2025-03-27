@@ -45,13 +45,17 @@
    <h3>Click on the image</h3>
     </div>
      <div align="center">
-             🍩 Prokin' Donuts WMS&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;&nbsp;👩‍💼 Employee System &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👩‍🏫 Student System <br>
+             🍩 Prokin' Donuts WMS
      <div align="center">
           <a href="https://github.com/kya9505/Prokin-Donuts">
             <img src="https://github.com/user-attachments/assets/efbcece9-b7f3-45a9-a973-b368777e77d5" width="320">
         </a>
-        <a href="https://github.com/kya9505/HR-finder">
+    </div>
+         <div align="center">
+             👩‍💼 Employee System &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;&nbsp;👩‍🏫 Student System <br>
+              <a href="https://github.com/kya9505/HR-finder">
             <img src="https://github.com/user-attachments/assets/f5dfbd29-7592-400f-9361-55bf29cb83ab" width="320"> 
+             </a>
          <a href="https://github.com/kya9505/Student_System">
             <img src="https://github.com/user-attachments/assets/05cf83cc-5151-47ae-86dc-ab1cef77545c" width="320"> 
         </a>
