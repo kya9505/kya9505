@@ -83,9 +83,6 @@
 <a href="https://velog.io/@dbsdk4211/posts">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" />
 </a>
-<a href="https://blog.naver.com/yadaily">
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white" />
-</a>
 <a href="https://www.notion.so/">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
 </a><br>
