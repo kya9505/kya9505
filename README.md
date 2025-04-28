@@ -97,5 +97,5 @@
     <img src="https://komarev.com/ghpvc/?username=kya9505&color=blue" />
     <hr />
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kya9505&show_icons=true&theme=transparent)
 </div>
