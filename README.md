@@ -50,7 +50,7 @@
           <a href="https://github.com/kya9505/Prokin-Donuts">
             <img src="https://github.com/user-attachments/assets/efbcece9-b7f3-45a9-a973-b368777e77d5" width="320">
         </a>  
-         <a href="https://github.com/kya9505/Prokin-Donuts">
+         <a href="https://github.com/Prokin-Donuts/Prokin-Donuts-Web">
             <img src="https://github.com/user-attachments/assets/7221077d-1565-448f-a81f-55556f88ec9e" width="320">
         </a>
     </div>
