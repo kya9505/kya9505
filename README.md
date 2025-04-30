@@ -43,12 +43,15 @@
     <h2 style="border-bottom: 2px solid #D1C6E4; color: #1f2429; padding-bottom: 10px;"> ✨ Team Projects </h2>  
     <div style="font-weight: 500; font-size: 16px; text-align: center; color: #282d33; line-height: 1.6;"> 
    <h3>Click on the image</h3>
-    </div>
-     <div align="center">
-             🍩 Prokin' Donuts WMS
+    </div><br>
+          <div align="center">
+              🍩 (CLI) Prokin' Donuts WMS&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🍩 (Web)Prokin' Donuts WMS <br>
      <div align="center">
           <a href="https://github.com/kya9505/Prokin-Donuts">
             <img src="https://github.com/user-attachments/assets/efbcece9-b7f3-45a9-a973-b368777e77d5" width="320">
+        </a>  
+         <a href="https://github.com/kya9505/Prokin-Donuts">
+            <img src="https://github.com/user-attachments/assets/7221077d-1565-448f-a81f-55556f88ec9e" width="320">
         </a>
     </div>
          <div align="center">
