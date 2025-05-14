@@ -87,7 +87,7 @@
 <a href="https://velog.io/@dbsdk4211/posts">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" />
 </a>
-<a href="https://www.notion.so/">
+<a href="https://small-ragdoll-a57.notion.site/1e53a719d3508013b4c1c34c867ae391?pvs=4">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
 </a><br>
 <a href="mailto:dbsdk402@gmail.com">
