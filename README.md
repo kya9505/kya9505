@@ -48,7 +48,7 @@
               🍩 (CLI) Prokin' Donuts WMS&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🍩 (Web)Prokin' Donuts WMS <br>
      <div align="center">
           <a href="https://github.com/kya9505/Prokin-Donuts">
-            <img src="https://github.com/user-attachments/assets/efbcece9-b7f3-45a9-a973-b368777e77d5" width="320">
+            <img src="https://github.com/kya9505/Prokin-Donuts-Web" width="320">
         </a>  
          <a href="https://github.com/Prokin-Donuts/Prokin-Donuts-Web">
             <img src="https://github.com/kya9505/Prokin-Donuts-Web/blob/main/README.md" width="320">
