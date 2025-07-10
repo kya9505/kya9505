@@ -46,14 +46,12 @@
     </div><br>
           <div align="center">
             LINKI Platform <br>
-        </div>
-          <div align="center">
           <a href="https://github.com/kya9505/linki">
-            <img src="https://github.com/user-attachments/assets/364e1be2-355f-4204-85bb-bc262b905f0f" width="320>
+            <img src="https://github.com/user-attachments/assets/364e1be2-355f-4204-85bb-bc262b905f0f" width="320">
           </a>
         </div>
           <div align="center">
-              <br>🍩 (CLI) Prokin' Donuts WMS&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🍩 (Web)Prokin' Donuts WMS <br>
+             <br> 🍩 (CLI) Prokin' Donuts WMS&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🍩 (Web)Prokin' Donuts WMS <br>
      <div align="center">
           <a href="https://github.com/kya9505/Prokin-Donuts">
             <img src="https://github.com/user-attachments/assets/efbcece9-b7f3-45a9-a973-b368777e77d5" width="320">
@@ -72,7 +70,6 @@
         </a>
     </div>
 </div>
-
 
 ---
 
